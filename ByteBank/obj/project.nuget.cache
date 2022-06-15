@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "c2oibxLhLx7+we+jDZJo82dEa9RGKzcoqY3wHgm4V8r1F3xDKTujkD+NWbVQdNyqf9WQC8t+/3upqb+7aWEWjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Frenet\\source\\repos\\ByteBank\\ByteBank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Frenet\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
