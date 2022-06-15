@@ -13,12 +13,12 @@ namespace ByteBank.Funcionarios.Sistemas
 
             if (usuarioAutenticado)
             {
-                Console.WriteLine("Bem-vindo ao sistema seu troxa");
+                Console.WriteLine("Bem-vindo ao sistema");
                 return true;
             }
             else
             {
-                Console.WriteLine("Senha incorreta OTARIO");
+                Console.WriteLine("Senha incorreta");
                 return false;
             }
         }
